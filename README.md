@@ -1,5 +1,6 @@
 Developed Calculator, a Win32 calculator application with an intuitive, resizable UI.
-(.exe file is their in the code, you can check and use this application also)
+
+(.exe file is their also, you can check and use this application )
 
 Implemented features to handle calculations involving very large values.
 
