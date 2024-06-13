@@ -1,0 +1,9 @@
+﻿  MainWindow.cpp
+c:\users\sjain\source\repos\windowsproject1\windowsproject1\mainwindow.cpp(1048): warning C4312: 'type cast': conversion from 'int' to 'HMENU' of greater size
+  WindowsProject1.cpp
+  Generating code
+  6 of 211 functions ( 2.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  WindowsProject1.vcxproj -> C:\Users\sjain\source\repos\WindowsProject1\x64\Release\WindowsProject1.exe
